@@ -5,7 +5,7 @@
 print("+ for Addition")#
 print("- for Subtraction")#
 print("* for Multiplcation")#
-print("- for Division")#
+print("/ for Division")#
 
 while True:
     
